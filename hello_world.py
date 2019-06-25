@@ -5,5 +5,5 @@ My first code.
 created 25/06/19
 '''
 
-hello = 'hello wold'
+hello = 'hello world'
 print(hello)
