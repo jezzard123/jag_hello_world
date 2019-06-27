@@ -1,1 +1,1 @@
-This is my first repository.
+This is Jenny's first repository.
