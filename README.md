@@ -1,1 +1,1 @@
-This is Jenny's first repository.
+This is Jenny's first repository test.
