@@ -1,6 +1,6 @@
 This is Jenny's first repository.
 
-Remote change 2.
+Remote change.
 
 It has been forked into CefasRepRes.
 
