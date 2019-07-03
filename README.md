@@ -1,6 +1,6 @@
 This is Jenny's first repository.
 
-Remote change - testing pull.
+Remote change - testing fetch & merge.
 
 It has been forked into CefasRepRes.
 
