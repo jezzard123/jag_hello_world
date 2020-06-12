@@ -4,6 +4,6 @@ Remote change - testing fetch & merge.
 
 It has been forked into CefasRepRes.
 
-Test possible problem change.
+Test conflicting change.
 
 Testing commit on HPC. 
