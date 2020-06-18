@@ -8,7 +8,9 @@ import datetime
 current_time = datetime.datetime.now()
 
 
-if current_time.hour < 12:
+if current_time.hour < 6:
+    print("Go back to bed")
+elif current_time.hour < 12:
     print("Good morning")
 elif current_time.hour < 18:
     print("Good afternoon")
