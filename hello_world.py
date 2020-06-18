@@ -1,5 +1,5 @@
 '''
-My first code. 
+My first code.
 
 @author JGraham
 created 25/06/19
@@ -20,5 +20,7 @@ else:
 
 print('And what a lovely day it is indeed.')
 
-# Nice code!
+if current_time.year == 2020:
+    print("Well, aside from (insert your favorite current global crisis here).")
 
+# Nice code!
