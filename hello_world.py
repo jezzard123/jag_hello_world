@@ -16,3 +16,5 @@ else:
     print("Good evening")
 
 print('And what a lovely day it is indeed.')
+
+Nice code!
