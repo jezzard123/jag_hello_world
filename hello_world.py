@@ -15,4 +15,4 @@ elif current_time.hour < 18:
 else:
     print("Good evening")
 
-print('And what a lovely day it is.')
+print('And what a lovely day it is indeed.')
