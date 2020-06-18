@@ -1,2 +1,2 @@
-New file
-this may cause conflicts?
+New file - Max edit
+# a comment by Nele, will this cause conflicts?  
