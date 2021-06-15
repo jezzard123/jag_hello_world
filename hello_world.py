@@ -1,3 +1,5 @@
+My Changes
+
 '''
 My first code. 
 
@@ -11,11 +13,12 @@ import getpass
 Current_user = getpass.getuser()
 
 if current_time.hour < 12:
-    print("Good morning")
+    print("Good morning, Coffee Time")
+elif current_time.hour < 13:
+    print("Wow, Lunch")
 elif current_time.hour < 18:
     print("Good afternoon")
 else:
-    print("Good evening")
-    
+    print("Good evening, enjoy your chill time")
 
 print(Current_user)
