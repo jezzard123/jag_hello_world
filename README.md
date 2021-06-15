@@ -8,4 +8,6 @@ Test non-conflicting change.
 
 Testing commit on ADA. 
 
+This is a great repository!
+
 Pull request test.
