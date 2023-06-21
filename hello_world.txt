@@ -1,3 +1,5 @@
 # Here is some code
 
 hello_world <- "Hello world"
+
+Testing commit in notepad...
