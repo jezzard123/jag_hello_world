@@ -13,4 +13,4 @@ if current_time.hour < 12:
 elif current_time.hour < 18:
     print("Good afternoon")
 else:
-    print("Good evening all")
+    print("Good evening")
