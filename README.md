@@ -8,4 +8,4 @@ Test non-conflicting change.
 
 Testing commit on ADA. 
 
-nesw line of trext 
+new line of text 
